@@ -1,8 +1,4 @@
-##
-# A GameBoard class for a game of Tic Tac Toe, and a ScoreBoard class for Tic Tac Toe
-# Student Name: Will Malisch
-# Student ID: wmalisch
-# Student Number: 250846447
+
 
 # Define a class for GameBoard
 class GameBoard:
