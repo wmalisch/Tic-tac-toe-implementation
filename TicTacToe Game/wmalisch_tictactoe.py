@@ -1,8 +1,4 @@
-##
-# Plays the game of tic-tac-toe
-# Student Name: Will Malisch
-# Student ID: wmalisch
-# Student Number: 250846447
+
 
 from myBoards import GameBoard
 from myBoards import ScoreBoard
